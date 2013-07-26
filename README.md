@@ -28,11 +28,15 @@ axis.jar
 commons-logging.jar
 
 icu4j_3_4.jar
+
 iri.jar
+
 jena.jar
+
 xercesImpl.jar
 
 virt_jena.jar
+
 virtjdbc3.jar (driver java para virtuoso)
 
 LIBRERÍAS ADICIONALES.
