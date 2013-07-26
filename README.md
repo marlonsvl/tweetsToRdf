@@ -10,16 +10,23 @@ puesto en la clase Converter.java que está en el paquete: ontology.pojos se tra
 LIBRERÍAS NECESARIAS PARA JACKSON
 
 jackson-annotations-2.2.2.jar
+
 jackson-core-2.2.2.jar
+
 jackson-databind-2.2.2.jar
+
 jackson-jaxrs-1.9.11.jar
+
 jettison-1.3.jar
 
 LIBRERÍAS VIRTUOSO-JENA
 
 arq.jar
+
 axis.jar
+
 commons-logging.jar
+
 icu4j_3_4.jar
 iri.jar
 jena.jar
