@@ -183,7 +183,7 @@ public class Converter {
         if(c != null){
             try {
                 String query;
-                query = "SELECT json FROM crawler.tweets2 where json is not null limit 100000 ";
+                query = "SELECT json FROM crawler.tweets2 where json is not null limit 10000 ";
                 st = c.createStatement();
                 rs = st.executeQuery(query);
                 while(rs.next()){
