@@ -43,7 +43,7 @@ LIBRERÍAS ADICIONALES.
 
 mysql-connector-java-5.1.25-bin.jar (En la página de mysql pueden obtener la última versión)
 
-Se puede descargar las librerías <a href="carbono.utpl.edu.ec:8008/lib/librerias.zip">aqui</a>.
+Se puede descargar las librerías <a href="http://carbono.utpl.edu.ec:8008/lib/librerias.zip">aqui</a>.
 
 
 
