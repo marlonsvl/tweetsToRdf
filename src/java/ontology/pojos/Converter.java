@@ -31,7 +31,7 @@ import virtuoso.jena.driver.VirtuosoUpdateRequest;
  */
 @ManagedBean(name = "pJ")
 @ApplicationScoped
-public class PruebaJackson {
+public class Converter {
 
     /**
      * @param args the command line arguments
